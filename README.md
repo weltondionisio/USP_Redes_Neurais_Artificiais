@@ -3,7 +3,7 @@
 **Universidade de São Paulo (USP)**  
 **Oferta:** 2026/2  
 **Carga horária:** 60 horas | 4 créditos | 4 semanas  
-**Modalidade:** Presencial  
+**Modalidade:** Remota
 
 ## Sobre a disciplina
 
