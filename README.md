@@ -1,7 +1,6 @@
-# Modelagem de Dados com Redes Neurais Artificiais
+# Modelagem de Dados com Redes Neurais Artificiais (BIZ 5802)
 
 **Universidade de São Paulo (USP)**  
-**Programa/Área:** Zoologia  
 **Oferta:** 2026/2  
 **Carga horária:** 60 horas | 4 créditos | 4 semanas  
 **Modalidade:** Presencial  
@@ -14,7 +13,8 @@ Ao longo da disciplina, serão abordados desde os fundamentos de Inteligência A
 
 As atividades combinam fundamentos teóricos, implementação computacional e aplicação a dados biológicos, ecológicos, ambientais, epidemiológicos, genômicos, bioinformáticos, imagens, sons e séries temporais.
 
-O objetivo não é apenas utilizar modelos prontos, mas compreender **como os modelos funcionam, como treiná-los, avaliá-los e interpretar seus resultados**, permitindo sua utilização crítica em pesquisas científicas.
+O objetivo não é apenas utilizar modelos prontos, mas compreender como os modelos funcionam, como treiná-los, avaliá-los e interpretar seus resultados, desenvolvendo competências para sua aplicação crítica tanto na pesquisa científica quanto em diferentes áreas de atuação profissional.
+
 
 ---
 
@@ -22,27 +22,25 @@ O objetivo não é apenas utilizar modelos prontos, mas compreender **como os mo
 
 Ao final da disciplina, espera-se que os estudantes sejam capazes de:
 
-- compreender os fundamentos de Inteligência Artificial, Machine Learning e Deep Learning;
-- compreender os princípios matemáticos e computacionais das Redes Neurais Artificiais;
-- construir, treinar e validar modelos neurais;
-- selecionar arquiteturas adequadas para diferentes tipos de dados;
-- aplicar redes neurais a problemas biológicos reais;
-- utilizar técnicas de regularização e otimização;
-- interpretar modelos utilizando técnicas de Explainable AI (XAI);
-- aplicar CNNs à análise de imagens biológicas;
-- utilizar redes recorrentes para modelagem de séries temporais;
-- compreender a arquitetura e o funcionamento de Transformers;
-- utilizar modelos pré-treinados em problemas científicos;
-- desenvolver fluxos reprodutíveis de análise utilizando Python;
-- interpretar criticamente os resultados de modelos de Deep Learning.
+- Compreender os fundamentos de Inteligência Artificial, Machine Learning e Deep Learning;
+- Compreender os princípios matemáticos e computacionais das Redes Neurais Artificiais;
+- Construir, treinar e validar modelos neurais;
+- Selecionar arquiteturas adequadas para diferentes tipos de dados;
+- Aplicar redes neurais a problemas biológicos reais;
+- Utilizar técnicas de regularização e otimização;
+- Interpretar modelos utilizando técnicas de Explainable AI (XAI);
+- Aplicar CNNs à análise de imagens;
+- Utilizar redes recorrentes para modelagem de séries temporais;
+- Compreender a arquitetura e o funcionamento de Transformers;
+- Utilizar modelos pré-treinados em problemas científicos;
+- Desenvolver fluxos reprodutíveis de análise utilizando Python;
+- Interpretar criticamente os resultados de modelos de Deep Learning.
 
 ---
 
 # Estrutura da disciplina
 
 ## Módulo 1 — Fundamentos de Inteligência Artificial e Redes Neurais
-
-**10 horas**
 
 Introdução aos conceitos fundamentais de Inteligência Artificial, Machine Learning e Deep Learning.
 
@@ -66,15 +64,13 @@ Introdução aos conceitos fundamentais de Inteligência Artificial, Machine Lea
   - Leaky ReLU
   - GELU
 
-### Laboratório
+### Projeto prático
 
 Construção de um perceptron em Python e visualização de fronteiras de decisão.
 
 ---
 
 ## Módulo 2 — Redes Neurais Feedforward e Treinamento
-
-**10 horas**
 
 Construção e treinamento de redes neurais multicamadas.
 
@@ -95,15 +91,13 @@ Construção e treinamento de redes neurais multicamadas.
 - Batch Normalization
 - Dropout
 
-### Laboratório
+### Projeto prático
 
 Construção de classificadores utilizando dados biológicos.
 
 ---
 
 ## Módulo 3 — Deep Learning para Dados Biológicos Tabulares
-
-**8 horas**
 
 Aplicação de redes neurais a dados estruturados provenientes de estudos biológicos e ecológicos.
 
@@ -119,15 +113,13 @@ Aplicação de redes neurais a dados estruturados provenientes de estudos bioló
 - SHAP
 - LIME
 
-### Laboratório
+### Projeto prático
 
 Desenvolvimento de modelos neurais aplicados a dados ecológicos.
 
 ---
 
 ## Módulo 4 — Redes Convolucionais e Visão Computacional
-
-**10 horas**
 
 Introdução ao Deep Learning para análise automatizada de imagens.
 
@@ -153,15 +145,12 @@ Introdução ao Deep Learning para análise automatizada de imagens.
 - Microscopia
 - Diagnóstico automatizado
 
-### Laboratório
-
+### Projeto prático
 Treinamento de CNNs utilizando imagens biológicas.
 
 ---
 
 ## Módulo 5 — Redes Recorrentes e Séries Temporais
-
-**6 horas**
 
 Aplicação de redes neurais à modelagem de dados sequenciais e temporais.
 
@@ -175,15 +164,13 @@ Aplicação de redes neurais à modelagem de dados sequenciais e temporais.
 - Dinâmica populacional
 - Monitoramento ambiental
 
-### Laboratório
+### Projeto prático
 
 Predição de séries temporais ecológicas.
 
 ---
 
 ## Módulo 6 — Transformers e Inteligência Artificial Generativa
-
-**8 horas**
 
 Introdução às arquiteturas modernas baseadas em mecanismos de atenção.
 
@@ -209,15 +196,13 @@ Introdução às arquiteturas modernas baseadas em mecanismos de atenção.
 - Modelos fundacionais para Biologia
 - Inteligência Artificial Generativa aplicada à ciência
 
-### Laboratório
+### Projeto prático
 
 Utilização de modelos pré-treinados em problemas biológicos.
 
 ---
 
 ## Módulo 7 — Projeto Integrador e Seminários
-
-**8 horas**
 
 Desenvolvimento de um projeto completo de Deep Learning aplicado a um problema biológico.
 
@@ -337,11 +322,8 @@ Uma introdução visual ao Deep Learning também será utilizada como material c
 
 # Docentes
 
-### Dr. Welton Dionisio da Silva
-Docente USP
-
-### Dr. Rodrigo Hirata Willemart
-Docente USP
+### Dr. Welton Dionisio da Silva (CV Lattes: http://lattes.cnpq.br/5824616728541618)
+### Dr. Rodrigo Hirata Willemart (CV Lattes: http://lattes.cnpq.br/9263833464663272)
 
 ---
 
