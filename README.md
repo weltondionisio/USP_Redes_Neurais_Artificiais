@@ -1,10 +1,10 @@
 # Modelagem de Dados com Redes Neurais Artificiais (BIZ 5802)
 
-**Universidade de São Paulo (USP)**  
-**Oferta:** 2026/2  
-**Carga horária:** 60 horas | 4 créditos | 4 semanas | Seg e Qui (8h às 16h30)
-**Modalidade:** Remota
-** Código da Disciplina:** BIZ 5802
+**Universidade de São Paulo (USP)**<br>
+**Oferta:** 2026/2<br>
+**Carga horária:** 60 horas | 4 créditos | 4 semanas | Seg e Qui (8h às 16h30)<br>
+**Modalidade:** Remota<br>
+**Código da Disciplina:** BIZ 5802
 
 ## Sobre a disciplina
 
