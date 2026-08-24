@@ -1,4 +1,4 @@
-# Modelagem de Dados com Redes Neurais Artificiais (BIZ 5802)
+# Modelagem de Dados com Redes Neurais Artificiais
 
 **Universidade de São Paulo (USP)**<br>
 **Oferta:** 2026/2<br>
