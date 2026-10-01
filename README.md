@@ -4,7 +4,7 @@
 **Oferta:** 2026/2<br>
 **Carga horária:** 60 horas | 4 créditos | 4 semanas | Seg e Qui (8h às 16h30)<br>
 **Datas:** 5, 8, 12, 15, 19, 22, 26, e 29 de Outubro/2026 <br>
-**Modalidade:** Remota<br>
+**Modalidade:** Remota síncron (sem aula gravada)<br>
 **Código da Disciplina:** BIZ 5802
 
 ## Sobre a disciplina
