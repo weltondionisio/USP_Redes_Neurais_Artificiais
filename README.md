@@ -5,7 +5,7 @@
 **Carga horária:** 60 horas | 4 créditos | 4 semanas | Seg e Qui (8h às 16h30)<br>
 **Datas:** 5, 8, 12, 15, 19, 22, 26, e 29 de Outubro/2026 <br>
 **Modalidade:** Remota síncrona (sem aula gravada)<br>
-**Plataforma:** As reuniões serão através do Google Meet com envio do link sempre no dia anterior à aula.
+**Plataforma:** As reuniões serão através do Google Meet com envio do link por email sempre no dia anterior à aula.
 **Código da Disciplina:** BIZ 5802
 
 ## Sobre a disciplina
